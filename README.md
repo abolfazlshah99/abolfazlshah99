@@ -1,16 +1,55 @@
-## Hi there 👋
 
-<!--
-**abolfazlshah99/abolfazlshah99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+```text
+    ___    __       ____  ____  ____
+   /   |  / /____  / __/ / __/ / __/
+  / /| | / // __/ _\ \  _\ \  _\ \
+ / ___ |/ // /___/___/ /___/ /___/ /
+/_/  |_/_/ \____//____//____//____/
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# `> Hello, I'm Abolfazl`
+
+### `Student | MATLAB`
+
+```text
+┌──────────────────────────────────────────┐
+│  USER     : abolfazlshah99               │
+│  ROLE     : Student                      │
+│  SKILL    : MATLAB                       │
+│  STATUS   : Learning and building        │
+└──────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## `$ whoami`
+
+Hi! I'm **Abolfazl**, a student interested in learning and building with MATLAB.
+
+## `$ tech-stack`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+</p>
+
+## `$ github-stats`
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abolfazlshah99&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abolfazlshah99&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages"/>
+</p>
+
+## `$ exit`
+
+```text
+Thanks for visiting my profile.
+More to come...
+```
+
+<p align="center">
+  <i>Keep learning. Keep building.</i>
+</p>
